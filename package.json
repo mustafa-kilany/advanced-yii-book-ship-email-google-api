@@ -1,1 +1,12 @@
-{"name":"portfolio-book-shipping","version":"2.0.0","private":true,"scripts":{"start":"node server.js","test":"node --test"}}
+{
+  "name": "portfolio-book-shipping",
+  "version": "2.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
